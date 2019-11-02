@@ -14,20 +14,20 @@
 
 ###### Follow below pictures for steps to generate your private key, once you click on the generate private key button, you will get a file dowloaded and that file is your private key information. Next, you just have to copy all the information in the file and paste to the service account section of the codes file (webcrawling.py).
 
-1. 
+1.
 ![alt text](./images/Firebase1.jpg)
 
 2.
 ![alt text](./images/Firebase2.jpg)
 
-3. 
+3.
 ![alt text](./images/Firebase3.jpg)
 
-4. 
+4.
 ![alt text](./images/Firebase4.jpg)
 
-5. 
+5.
 ![alt text](./images/Firebase5.jpg)
 
-6. 
+6.
 ![alt text](./images/Firebase6.jpg)
