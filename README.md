@@ -11,4 +11,6 @@
 ### How to create service account?
 
 
-### 1st Step: 
+###### Follow below pictures for steps to generate your private key, once you click on the generate private key button, you will get a file dowloaded and that file is your private key information. Next, you just have to copy all the information in the file and paste to the service account section of the codes file (webcrawling.py).
+
+![alt text](./images/Firebase1.jpg)
