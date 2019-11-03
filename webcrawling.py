@@ -121,7 +121,7 @@ def query_exchange_rate(date, ccy, type):
     #print message
     print('something is wrong!')
 
-#4.2 Use query_exchange_rate function
+#4.1 Use query_exchange_rate function
 date = "2019-10-02" 
 ccy = "KRW" 
 type = "CASH_SELL" 
