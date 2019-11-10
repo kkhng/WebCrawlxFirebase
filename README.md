@@ -36,4 +36,4 @@
 
 6.
 
-![alt text](./images/Firebase6.jpg)
+
